@@ -1,0 +1,26 @@
+{
+  "members": [
+    {
+      "name": "square",
+      "template": [
+        [1, 1],
+        [1, 1]
+      ]
+    },
+    {
+      "name": "stick_small",
+      "template": [
+        [1],
+        [1]
+      ]
+    },
+    {
+      "name": "stick_large",
+      "template": [
+        [1],
+        [1],
+        [1]
+      ]
+    }
+  ]
+}
